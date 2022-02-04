@@ -1,7 +1,7 @@
 #!/bin/bash
 # Data de criação: 02/02/2022
-# Data de atualização: 03/02/2022
-# Versão: 0.03
+# Data de atualização: 04/02/2022
+# 
 # Testado e homologado para a versão do GNU/Linux Ubuntu Server 18.x LTS x64
 # Testado e homologado para a versão do Docker 20.10.x, Portainer 1.24.x
 # Testado e homologado para a versão do Unifi Controller 6.2.x
@@ -22,7 +22,7 @@
 # https://IP_DO_SERVIDOR:8443
 # Step 1 of 6:
 #   Name Your Controller
-#       Controller Name: Vaamonde
+#       Controller Name: Oncoradium
 #       By selecting this you are agreeing to end user licence agreement and the terms of service: ON <Next>
 # Step 2 of 6:
 #   Sign in with your Ubiquiti Account
@@ -53,16 +53,7 @@
 # Site Oficial Docker Compose: https://docs.docker.com/compose/
 # Site oficial do Portainer: https://portainer.io/
 #
-# Storage com suporte ao Docker e Portainer
-# OpenMediaVault: https://www.openmediavault.org/
-# Rockstor: http://rockstor.com/
-# FreeNAS e TrueNAS: https://www.freenas.org/
-# QNAP: https://www.qnap.com/
-# Synology: https://www.synology.com/en-global
-#
-# Download do Wifiman Desktop: https://community.ui.com/releases/WiFiman-Desktop-0-2-2/74d8bc1d-6735-444b-a7fc-0ea2584ccb89
-# Site do Wifiman: http://wifiman.com/
-# Site do SIMET: https://beta.simet.nic.br/
+# 
 #
 
 #Script de criação do Conteiner do Unifi Controller no Docker e Portainer

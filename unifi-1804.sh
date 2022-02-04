@@ -1,7 +1,7 @@
 #!/bin/bash
 # Data de criação: 02/02/2022
-# Data de atualização: 03/02/2022
-# Versão: 0.06
+# Data de atualização: 04/02/2022
+# 
 # Testado e homologado para a versão do Ubuntu Server 18.04.x LTS x64
 # Testado e homologado para a versão do Unifi Controller 6.2.x, MongoDB 3.6.x, OpenJDK e OpenJRE 8.x
 #
@@ -36,9 +36,6 @@
 # Blog Oficial do Unifi Brasil: https://medium.com/ubntbr
 # Canal do YouTUBE Ubiquiti BR: https://www.youtube.com/channel/UCb_mHuP7q75OrckBcNn3p2Q
 #
-# Download do Wifiman Desktop: https://community.ui.com/releases/WiFiman-Desktop-0-2-2/74d8bc1d-6735-444b-a7fc-0ea2584ccb89
-# Site do Wifiman: http://wifiman.com/
-# Site do SIMET: https://beta.simet.nic.br/
 #
 # Variável da Data Inicial para calcular o tempo de execução do script (VARIÁVEL MELHORADA)
 # opção do comando date: +%T (Time)
