@@ -60,7 +60,7 @@ LOG="/var/log/$(echo $0 | cut -d'/' -f2)"
 #
 # Declarando as variáveis de download do Unifi (Links atualizados no dia 06/01/2021)
 KEYSRVMONGODB="https://www.mongodb.org/static/pgp/server-3.4.asc"
-KEYUNIFI="https://dl.ubnt.com/unifi/6.5.55/unifi_sysvinit_all.deb"
+KEYUNIFI="https://dl.ui.com/unifi/unifi-repo.gpg"
 #
 # Exportando o recurso de Noninteractive do Debconf para não solicitar telas de configuração
 export DEBIAN_FRONTEND="noninteractive"
